@@ -35,7 +35,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100071880593545"," 8273"
+    "100071880593545",""
   ],
   "whiteListMode": {
     "enable": false,
@@ -75,8 +75,8 @@
     "port": 3001,
     "socket": {
       "enable": true,
-      "channelName": "uptime",
-      "verifyToken": "fd787453"
+      "channelName": "",
+      "verifyToken": ""
     }
   },
   "autoRestart": {
@@ -86,7 +86,7 @@
   "autoUptime": {
     "enable": true,
     "timeInterval": 3600000,
-    "url": "http://goat-bot-v2.kingking8712.repl.co/",
+    "url": "",
     "notes": "the value of timeInterval is seconds, url is the url you want to send the request to (automatically detected for hosting glitch or replit)"
   },
   "autoLoadScripts": {
