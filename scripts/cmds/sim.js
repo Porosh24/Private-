@@ -1,16 +1,16 @@
 const axios = require("axios");
 module.exports = {
 	config: {
-		name: 'bot',
+		name: 'sim',
 		version: '1.2',
-		author: 'aminulsordar',
+		author: 'KENLIEPLAYS',
 		countDown: 0,
 		role: 0,
 		shortDescription: 'Simsimi ChatBot by Simsimi.fun',
 		longDescription: {
 			en: 'Chat with simsimi'
 		},
-		category: 'bot',
+		category: 'sim',
 		guide: {
 			en: '   {pn} <word>: chat with simsimi'
 				+ '\  Example:{pn} hi'
